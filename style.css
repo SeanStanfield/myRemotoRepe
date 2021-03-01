@@ -10,6 +10,8 @@ h1 {
 
 p {
   color: pink;
+  padding: 2rem;
+  border: 2px black dotted;
   font-weight: bold;
   font-family: "Poppins" sans-serif;
 }
